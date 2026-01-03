@@ -1,0 +1,11 @@
+streamlit
+requests
+feedparser
+trafilatura
+pandas
+scikit-learn
+vaderSentiment
+langdetect
+python-dateutil
+tqdm
+matplotlib
