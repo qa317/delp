@@ -518,7 +518,7 @@ def simple_signals(df: pd.DataFrame) -> pd.DataFrame:
 # ============================
 
 st.set_page_config(page_title="Packaging Trends Monitor", layout="wide")
-st.title("📦 Packaging Trends Monitor (Fixed + More News Sources)")
+st.title("📦 Packaging Trends Monitor")
 st.caption("Collect packaging trend info (GDELT + RSS + GNews + official), explore it, and analyze key signals.")
 
 with st.sidebar:
